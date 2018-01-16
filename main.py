@@ -6,3 +6,4 @@ print(a)
 b = 1
 a = a +b
 print(b)
+print(finish)
